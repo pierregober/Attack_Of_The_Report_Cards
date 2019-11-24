@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_231" class="java.beans.XMLDecoder">
+ <object class="java.util.Vector">
+  <void method="add">
+   <object class="opt"/>
+  </void>
+  <void method="add">
+   <object class="opt">
+    <void property="score">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="opt">
+    <void property="score">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="opt" id="opt0">
+    <void property="score">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="opt0"/>
+  </void>
+  <void method="add">
+   <object class="opt"/>
+  </void>
+  <void method="add">
+   <object class="opt"/>
+  </void>
+  <void method="add">
+   <object class="opt"/>
+  </void>
+  <void method="add">
+   <object class="opt">
+    <void property="score">
+     <int>4</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="opt">
+    <void property="score">
+     <int>25</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="opt" id="opt1">
+    <void property="score">
+     <int>21</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="opt1"/>
+  </void>
+  <void method="add">
+   <object class="opt" id="opt2">
+    <void property="difficulty">
+     <string>Normal</string>
+    </void>
+    <void property="name">
+     <string>Pierre Gober</string>
+    </void>
+    <void property="score">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="opt2"/>
+  </void>
+ </object>
+</java>
