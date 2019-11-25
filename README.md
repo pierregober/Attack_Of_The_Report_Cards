@@ -1,6 +1,7 @@
 # PennStateJavaGame
 
 20191124
+
 Welcome to my first published Java Game! 
 This was a game that I created in my Java class at Penn State using the Netbeans IDE.
 
@@ -16,4 +17,4 @@ Features
   -High Score XML recorder
   -Change the name of your hero
 
-# Later this year I will upload some older programs but for now I am done with Java 
+Later this year I will upload some older programs but for now I am done with Java 
